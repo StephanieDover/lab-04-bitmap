@@ -1,0 +1,25 @@
+{
+  "name": "lab-04-bitmap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "lint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephanieDover/lab-04-bitmap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StephanieDover/lab-04-bitmap/issues"
+  },
+  "homepage": "https://github.com/StephanieDover/lab-04-bitmap#readme",
+  "devDependencies": {
+    "eslint": "^4.0.0",
+    "expect": "^1.20.2",
+    "mocha": "^3.4.2"
+  }
+}
