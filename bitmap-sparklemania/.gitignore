@@ -1,5 +1,5 @@
 # Created by https://www.gitignore.io/api/osx,linux,node,vim
-node_momdules
+node_modules
 db/
 build/
 
