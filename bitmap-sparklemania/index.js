@@ -1,5 +1,5 @@
 'use strict';
 
-let image = require('./lib/print-files.js');
+let bitmap = require('./lib/bitmap.js');
 
-console.log(image);
+console.log(bitmap);
